@@ -36,3 +36,26 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+#ful-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange,blue);
+    border-image-slice: 1;
+    
+}
+#web-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,rgb(134, 132, 3));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
